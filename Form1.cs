@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace Note_taking
 {
     public partial class Form1 : Form
     {
@@ -27,7 +27,6 @@ namespace WindowsFormsApp1
             SavedNotes.DataSource = notes;
             SavedNotes.Columns["Message"].Visible = false;
             SavedNotes.Columns["Title"].Width = 210;
-            SavedNotes.Columns["Title"].
         }
 
 
