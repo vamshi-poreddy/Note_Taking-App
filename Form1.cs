@@ -27,7 +27,6 @@ namespace WindowsFormsApp1
             SavedNotes.DataSource = notes;
             SavedNotes.Columns["Message"].Visible = false;
             SavedNotes.Columns["Title"].Width = 210;
-            SavedNotes.Columns["Title"].
         }
 
 
