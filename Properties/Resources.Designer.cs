@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Notetaking.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 
