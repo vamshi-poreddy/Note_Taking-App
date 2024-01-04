@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Note_taking.Properties
+namespace Note_Taking.Properties
 {
 
 
