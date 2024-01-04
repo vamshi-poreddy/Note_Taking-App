@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace Notetaking
 {
     partial class Form1
     {
